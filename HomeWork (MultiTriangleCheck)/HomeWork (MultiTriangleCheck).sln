@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork (MultiTriangleCheck)", "HomeWork (MultiTriangleCheck).vcxproj", "{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Debug|x64.ActiveCfg = Debug|x64
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Debug|x64.Build.0 = Debug|x64
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Debug|x86.Build.0 = Debug|Win32
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Release|x64.ActiveCfg = Release|x64
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Release|x64.Build.0 = Release|x64
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Release|x86.ActiveCfg = Release|Win32
+		{1F8BABDC-FE6F-475F-9EA4-4C74B0DA9245}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {061DAC77-62D5-447B-9511-6626BBDAF996}
+	EndGlobalSection
+EndGlobal
